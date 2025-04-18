@@ -2,7 +2,7 @@
 
 updated about.txt in update-about branch
 
- i am trying the pull request using commands 
+ trying to understand merge conflict
 
 let me see how it works
 
